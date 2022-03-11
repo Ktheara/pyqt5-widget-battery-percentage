@@ -1,7 +1,7 @@
 # Battery Widget
 # Author: Theara Kong
 # Email: theara729@gmail.com
-# GitHub: 
+# GitHub: https://github.com/Ktheara
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtCore import pyqtSignal
